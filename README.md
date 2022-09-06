@@ -1,9 +1,13 @@
-# Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!!!
+# Projeto de Deploy - Stranger Things Front-end
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de frontend.
+## O que foi desenvolvido: 
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+* Configuração do .env para controlar as URLs e Timeouts de comunicação com a API;
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
+* Deploy no Heroku.
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-019-stranger-things) em que os requisitos do projeto são destrinchados.
+Importante: O front-end foi disponibilizado pela Trybe.
+
+# Tecnologias utilizadas:
+
+![Heroku](https://img.shields.io/badge/-HEROKU-purple?style=for-the-badge&logo=Heroku&logoColor=white)
